@@ -50,3 +50,26 @@ Some of the page effects are as follows:
 - Create an account easily using a phone number and can also edit and delete accounts
 
 - Password input keyboard
+
+- You can add an e-wallet for payment
+
+## Project operating environment
+```
+1. Flutter version 3.10.0
+
+2. Dart version 3.0.0
+
+3. Firebase
+```
+
+## Library used
+| Library | Functionality |
+|--------------|-------|
+| [carousel_slider](https://pub.dev/packages/carousel_slider) | Manage carousel conveniently | 
+| [scroll_date_picker](https://pub.dev/packages/scroll_date_picker) | Create packages for scrollable dates | 
+| [flutter_localizations](https://pub.dev/packages/flutter_localization) | In-app localization with Maps data | 
+| [intl](https://pub.dev/packages/intl) | Localization | 
+| [provider](https://pub.dev/packages/provider) | State management | 
+| [firebase_auth](https://pub.dev/packages/firebase_auth) | Authenticate users through Firebase Authentication | 
+
+For details, please refer to the [pubspec.yaml](https://github.com/helloChiHai/Baemin_Dart_Flutter/blob/master/pubspec.yaml) file.
