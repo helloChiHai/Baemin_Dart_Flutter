@@ -1,16 +1,19 @@
-# baemax
+# Baemin
+<p align="center">
+  <img width="85%" alt="img_12" src="https://github.com/helloChiHai/Baemin_Dart_Flutter/blob/master/preview/Font%20chu%20Baemin%20Food.jpg?raw=true">
+</p>
 
-A new Flutter project.
+## About
+This project is a Flutter project for personal development.
 
-## Getting Started
+The Baemin project is a diverse platform that connects users to a variety of restaurants and food stores. Ordering food is more convenient than ever, providing a safe, convenient, and diverse culinary experience. This project is a Flutter project for personal development.
 
-This project is a starting point for a Flutter application.
+Baemin's interface application is designed for a user-focused experience. Innovative, friendly and easy-to-use interface, providing a simple and convenient experience in the food ordering process.
 
-A few resources to get you started if this is your first Flutter project:
+With a mobile-first interface, users can easily browse categories, view menus, and rate other users' prices. High-quality images of dishes along with detailed information help users make smart shopping decisions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Smart search and filter functions help users easily choose their favorite dishes, while the payment process is done quickly and securely. At the same time, the interface still provides order tracking and on-time delivery information, creating the perfect online food setup experience.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+
+Some of the page effects are as follows:
