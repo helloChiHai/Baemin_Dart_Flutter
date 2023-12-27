@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "25912340791",
+    "firebase_url": "https://duanbaemaxfk-default-rtdb.firebaseio.com",
+    "project_id": "duanbaemaxfk",
+    "storage_bucket": "duanbaemaxfk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25912340791:android:a326356dec3b367625aab2",
+        "android_client_info": {
+          "package_name": "com.example.baemax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25912340791-ia1a24m7mcid8387mqmhk1oghir8n4nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy1zCdD0zxX4p0tl9d1mm38xZnhuInaRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25912340791-ia1a24m7mcid8387mqmhk1oghir8n4nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
