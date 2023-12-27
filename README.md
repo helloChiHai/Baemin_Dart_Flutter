@@ -33,6 +33,20 @@ Some of the page effects are as follows:
 
 - Search, sort and filter by category, filter by store,...
 
-- use firebase to save and query data
+- Use firebase to save and query data
 
-- 
+- Network request encapsulation based on `http` (version 1.1.0)
+
+- Determine location based on address and vice versa, helping to integrate geographical information using `geocoding` (version 2.1.0)
+
+- Find and update addresses using `google_places_flutter` (version 2.0.5)
+
+- Save the store to your list of favorite stores
+
+- Ordering food is easy and includes discount coupons
+
+- State management using `provider` (version 6.0.5)
+
+- Create an account easily using a phone number and can also edit and delete accounts
+
+- Password input keyboard
