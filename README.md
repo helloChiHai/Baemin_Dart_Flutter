@@ -26,3 +26,13 @@ Some of the page effects are as follows:
 | <img width="200" src="https://github.com/helloChiHai/Baemin_Dart_Flutter/blob/master/preview/Screenshot_1703641053.png?raw=true"> | <img width="200" src="https://github.com/helloChiHai/Baemin_Dart_Flutter/blob/master/preview/Screenshot_1703641062.png?raw=true"> | <img width="200" src="https://github.com/helloChiHai/Baemin_Dart_Flutter/blob/master/preview/Screenshot_1703641066.png?raw=true"> | <img width="200" src="https://github.com/helloChiHai/Baemin_Dart_Flutter/blob/master/preview/Screenshot_1703641071.png?raw=true"> |
 | <img width="200" src="https://github.com/helloChiHai/Baemin_Dart_Flutter/blob/master/preview/Screenshot_1703641080.png?raw=true"> | <img width="200" src="https://github.com/helloChiHai/Baemin_Dart_Flutter/blob/master/preview/Screenshot_1703641089.png?raw=true"> | <img width="200" src="https://github.com/helloChiHai/Baemin_Dart_Flutter/blob/master/preview/Screenshot_1703641096.png?raw=true"> | <img width="200" src="https://github.com/helloChiHai/Baemin_Dart_Flutter/blob/master/preview/Screenshot_1703641099.png?raw=true"> |
 | <img width="200" src="https://github.com/helloChiHai/Baemin_Dart_Flutter/blob/master/preview/Screenshot_1703641107.png?raw=true"> | <img width="200" src="https://github.com/helloChiHai/Baemin_Dart_Flutter/blob/master/preview/Screenshot_1703641249.png?raw=true"> | <img width="200" src="https://github.com/helloChiHai/Baemin_Dart_Flutter/blob/master/preview/Screenshot_1703641259.png?raw=true"> | <img width="200" src="https://github.com/helloChiHai/Baemin_Dart_Flutter/blob/master/preview/Screenshot_1703641271.png?raw=true"> |
+
+## Realizing the content
+
+- Display deals and promotions in slider format using `carousel_slider` (version 4.2.1)
+
+- Search, sort and filter by category, filter by store,...
+
+- use firebase to save and query data
+
+- 
